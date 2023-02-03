@@ -1,0 +1,10 @@
+Runs 1&2 are target 1.
+First df picture had the shutter closed due to some glitch.
+S1 captured before data frames.
+
+Runs 3&4 are target 2.
+Stability of chamber improved drastically by the 8th picture, so the 1st half of pictures were retaken.
+S2 captured after after data frames.
+
+Run 5 is target 3.
+S5 captured at the end of data collection.
